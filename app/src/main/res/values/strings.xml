@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">loginUI</string>
+    <string name="app_name">LoginUI</string>
     <string name="forget_password">Forget Password</string>
     <string name="password">Password</string>
     <string name="username">Username</string>
