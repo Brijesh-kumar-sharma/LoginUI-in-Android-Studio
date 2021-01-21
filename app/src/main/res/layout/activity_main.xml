@@ -21,7 +21,7 @@
             android:scaleType="centerCrop"
             android:background="#40DF9F"
             android:padding="3dp"
-            android:backgroundTint="#FFC107"
+            android:backgroundTint="#40df9f"
             android:src="@drawable/ic_baseline_code_24"
             android:contentDescription="@string/todo">
         </ImageView>
