@@ -131,7 +131,8 @@
         android:layout_marginStart="10dp"
         android:layout_toEndOf="@+id/passwordicon"
         android:textColorHint="#96A7AF"
-        app:passwordToggleEnabled="true">
+        app:passwordToggleEnabled="true"
+        >
 
         <EditText
             android:id="@+id/password_edit"
